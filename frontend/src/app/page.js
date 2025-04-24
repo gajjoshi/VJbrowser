@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-100 to-gray-200 text-gray-900">
       <header className="w-full py-6 px-8 bg-white shadow-md flex justify-between items-center">
-        <h1 className="text-2xl font-bold text-black tracking-wide">Vivek Jhalan Browser</h1>
+        <h1 className="text-2xl font-bold text-black tracking-wide">Vivek Jalan Browser</h1>
         <span className="text-sm font-medium bg-black text-white px-3 py-1 rounded-full">Beta</span>
       </header>
 
